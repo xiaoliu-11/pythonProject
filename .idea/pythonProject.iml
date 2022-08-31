@@ -5,6 +5,8 @@
       <excludeFolder url="file://$MODULE_DIR$/venv" />
       <excludeFolder url="file://$MODULE_DIR$/novel" />
       <excludeFolder url="file://$MODULE_DIR$/第四章/video" />
+      <excludeFolder url="file://$MODULE_DIR$/第四章/video1" />
+      <excludeFolder url="file://$MODULE_DIR$/第一章/images" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
